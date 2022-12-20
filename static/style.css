@@ -6,14 +6,15 @@ body {
   flex-direction: column;
 }
 .letter {
-  border: 1px solid #999;
+  border: 2px solid #999;
   padding: 8px 6px;
   width: 24px;
   display: inline-block;
   text-align: center;
-  background-color: #5AD9ED;
+  background-color: #ec7043;
   color: #666;
 }
+
 #form, #results {
   margin: 1em 0;
 }
